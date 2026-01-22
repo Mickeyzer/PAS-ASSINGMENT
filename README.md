@@ -106,8 +106,7 @@ The assignment includes three main visualizations:
 - **Solution**: Verify transformation parameters and check for outliers
 
 ## Author
-Ishan Bhat
-Roll Number: 102313022
+Ishan Bhat 102313022
 
 ## License
 Educational use only.
